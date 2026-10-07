@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" fill="none">
+  <title>DLVRY — Digital products for brands.</title>
+  <desc>A typographic DLVRY agency banner in warm white on graphite, with a pale green arrow and the focus areas software, commerce and AI.</desc>
+  <rect width="1600" height="600" rx="16" fill="#121614"/>
+  <path d="M64 100H1536M64 499H1536" stroke="#3B443E"/>
+  <g fill="#BEC9C0" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="3">
+    <text x="64" y="64">INDEPENDENT THINKING. USEFUL SOFTWARE.</text>
+    <text x="1536" y="64" text-anchor="end" letter-spacing="1">DLVRY.AGENCY</text>
+  </g>
+  <text x="52" y="338" fill="#F4F2E9" font-family="Arial, Helvetica, sans-serif" font-size="250" font-weight="800" letter-spacing="-16">DLVRY</text>
+  <text x="68" y="423" fill="#F4F2E9" font-family="Arial, Helvetica, sans-serif" font-size="45" letter-spacing="-1">Digital products for brands.</text>
+  <g stroke="#334139" stroke-width="1">
+    <path d="M1176 150V445M1296 150V445M1416 150V445M1136 205H1500M1136 325H1500M1136 445H1500"/>
+  </g>
+  <path d="M1208 385L1428 165M1260 165H1428V333" stroke="#D8EBBC" stroke-width="30" stroke-linecap="square"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="20">
+    <text x="64" y="555" fill="#F4F2E9" letter-spacing="3">SOFTWARE / COMMERCE / AI</text>
+    <text x="1536" y="555" fill="#BEC9C0" text-anchor="end">From idea to everyday use.</text>
+  </g>
+</svg>

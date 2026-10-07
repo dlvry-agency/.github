@@ -1,5 +1,5 @@
 <a href="https://www.dlvry.agency/">
-  <img src="./profile/assets/cover.svg" alt="DLVRY — Digital products for brands. Software, commerce and AI." width="100%" />
+  <img src="./assets/cover.svg" alt="DLVRY — Digital products for brands. Software, commerce and AI." width="100%" />
 </a>
 
 <br />
