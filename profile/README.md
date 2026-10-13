@@ -1,31 +1,29 @@
-<a href="https://www.dlvry.agency/">
-  <img src="./assets/cover.svg" alt="DLVRY — Digital products for brands. Software, commerce and AI." width="100%" />
+<a href="https://dlvry.agency">
+  <img src="https://raw.githubusercontent.com/dlvry-agency/.github/main/profile/assets/cover.png" alt="DLVRY Agency. Strategy, technology and digital products." width="100%" />
 </a>
 
 <br />
 
-We build software that connects **marketing, commerce and everyday operations**. Our focus is on digital products that are useful to the people behind a brand: connected tools, clearer workflows and less repetitive work.
+**DLVRY brings together strategy, technology and artificial intelligence to make everyday work simpler for brands.** We provide agency services and build our own digital products.
 
-<br />
+### The agency
 
-| **01 — Digital products** | **02 — Connected commerce** | **03 — AI & automation** |
-| :--- | :--- | :--- |
-| Applications shaped around how brands and teams work. | Integrations that bring storefronts, catalogs and business tools together. | Workflows that help teams prepare content and simplify routine tasks. |
+We work with brands across digital marketing, e-commerce and automation. From defining an idea to designing the experience and connecting the tools behind it, we combine creative thinking with software development.
 
-<br />
+[Explore DLVRY](https://dlvry.agency)
 
-### Built with purpose. Made to be used.
+### Our products
 
-We start with the work people need to do, connect the systems around it and build the product that brings it together.
+#### DLVRY Connect
 
-This is the home of DLVRY's engineering work. Explore our public repositories for project documentation, setup instructions and development status.
+Our first product: a workspace for brands and their teams. We are building a place to bring business connections, modular apps and DLVRY's own AI services and agents together.
 
-<br />
+Connect is in development, with access by invitation. Its first version starts with the essentials: a brand account, its team and a shared workspace.
+
+[Discover Connect](https://connect.dlvry.agency)
 
 ---
 
-### Have something in mind?
+### Let's talk
 
-Let's talk about what you're building.
-
-**[Explore DLVRY ↗](https://www.dlvry.agency/)** &nbsp;&nbsp;·&nbsp;&nbsp; **[dev@dlvry.agency](mailto:dev@dlvry.agency)**
+For projects, product enquiries or collaborations, write to **[dev@dlvry.agency](mailto:dev@dlvry.agency)**.
